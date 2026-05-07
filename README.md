@@ -5,9 +5,11 @@ This is a Java console-based application developed to perform various number-rel
 
 ## Features
 - Find even and odd numbers
-- Prime number checking
-- Palindrome number checking
-- Armstrong number checking
+- Prime number
+- Palindrome number
+- Armstrong number
+- Strong numbers
+- Perfect numbers
 - Decimal to Binary conversion
 - Decimal to Octal conversion
 - Decimal to Hexadecimal conversion
